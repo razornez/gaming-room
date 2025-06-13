@@ -1,10 +1,10 @@
 # Razornez Room Portfolio
 
-**[Live site](https://razornez-room.vercel.app/)**
+**[Live site](https://gaming-room-swart.vercel.app/)**
 
 This repo contains code of Razornez Room Folio using Blender and Three js. 
 
-![Page screenshot](public/media/gaming room2.png?raw=true "Page screenshot")
+![Page screenshot](public/media/gaming_room2.webp?raw=true "Page screenshot")
 
 # Instructions
 
